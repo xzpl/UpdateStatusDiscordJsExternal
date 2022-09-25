@@ -4,6 +4,10 @@ const snekfetch = require('snekfetch');
 
 const client = discord.Client();
 
+client.on('ready', () => {
+    console.log(`${client.user.username} is running now`);
+}
+
 client.on('message', async message => {
     if(message.author.bot) return;
   
