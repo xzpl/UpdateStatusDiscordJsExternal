@@ -22,3 +22,6 @@ client.on('message', async message => {
         message.channel.send(dfgiij); 
     })}
 });
+
+
+client.login(token)
