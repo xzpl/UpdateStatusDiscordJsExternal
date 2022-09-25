@@ -12,7 +12,8 @@
 
 # Linux use
 
-If you are on linux, make sure NodeJs is intalled and then run these commands 
+If you are on linux, make sure NodeJs is intalled and then run these commands, depending on your distro <br> you might have different package managers so google
+how to install it if you dont know
 <br>
 sudo npm install discord.js@12
 <br>
