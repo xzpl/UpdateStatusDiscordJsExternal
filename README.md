@@ -13,8 +13,11 @@
 # Linux use
 
 If you are on linux, make sure NodeJs is intalled and then run these commands 
+<br>
 sudo npm install discord.js@12
+<br>
 sudo npm install snekfetch
+<br>
 node main.js
 
 # Troubleshooting
