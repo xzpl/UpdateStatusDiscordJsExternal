@@ -8,3 +8,8 @@
   <li>Run the download_packages.bat and wait for them to install</li>
   <li>Then run the v.bat to start the bot</li>
 <ol>
+
+# Troubleshooting
+Issue 1 'npm' is not recognized as an internal or external command, operable program or batch file.
+<br>
+Soultion Download NodeJs
